@@ -5,7 +5,8 @@ Combined results of `groth-4`, `groth-5` and `groth-6` testnets.
 **THIS IS AN INITIAL REPORT AND SUBJECT TO CHANGES!**
 
 | Owner | Reward |
-| --- | --- |
+| --- | --- | 
+
 | 0x632df51cfae78bbef5216a282f2db203b74d6abc63ad22f26a65be42eb1e313c | 298953.0Tℤ |
 | 0x71f162971afa3d157b119fe07d8e02e5f334f9c4bc4f974792cbf4b47f047612 | 281318.0Tℤ |
 | 0x5c76767e69f15bacc30c58251690fc075963b04bc08d314fe015cbc0e861f3d7 | 265927.0Tℤ |
@@ -657,6 +658,8 @@ Combined results of `groth-4`, `groth-5` and `groth-6` testnets.
 | 0x186ae000792b670abebb69c1f8dd6cb689440197918fd1a993c55612ed960c87 | 2.0Tℤ |
 | 0x9ca93f45c7d7dac1d09da8bce0deae4afa68094962bd15d84ed25c272ab7660d | 2.0Tℤ |
 | 0x1f39510010a1386fd69217fcea46bb18be7d9f9f4b8c601350a6f78bb2474667 | 2.0Tℤ |
+
+
 
 
 ## Groth Testnet (200000Tℤ till 22nd November)
